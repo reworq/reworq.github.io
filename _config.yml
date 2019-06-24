@@ -1,1 +1,6 @@
-source: ./docs
+exclude:
+- .gitignore
+- CNAME
+- LICENSE.txt
+- README.md
+- Vagrantfile
